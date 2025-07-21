@@ -52,4 +52,4 @@
 <img src="https://raw.githubusercontent.com/tahagwp/tahagwp/output/snake.svg" alt="Snake animation" />
 
 ###
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Taha;Programmer+%7C+Designer+%7C+Trainer;Founder+of+Code+Designer)](https://git.io/typing-svg)
+
